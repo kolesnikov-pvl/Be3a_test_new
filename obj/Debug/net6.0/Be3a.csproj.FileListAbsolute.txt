@@ -1,0 +1,17 @@
+S:\Workspace\BE3A_test\Be3a\bin\Debug\net6.0\Be3a.exe
+S:\Workspace\BE3A_test\Be3a\bin\Debug\net6.0\Be3a.deps.json
+S:\Workspace\BE3A_test\Be3a\bin\Debug\net6.0\Be3a.runtimeconfig.json
+S:\Workspace\BE3A_test\Be3a\bin\Debug\net6.0\Be3a.dll
+S:\Workspace\BE3A_test\Be3a\bin\Debug\net6.0\Be3a.pdb
+S:\Workspace\BE3A_test\Be3a\bin\Debug\net6.0\Newtonsoft.Json.dll
+S:\Workspace\BE3A_test\Be3a\obj\Debug\net6.0\Be3a.csproj.AssemblyReference.cache
+S:\Workspace\BE3A_test\Be3a\obj\Debug\net6.0\Be3a.GeneratedMSBuildEditorConfig.editorconfig
+S:\Workspace\BE3A_test\Be3a\obj\Debug\net6.0\Be3a.AssemblyInfoInputs.cache
+S:\Workspace\BE3A_test\Be3a\obj\Debug\net6.0\Be3a.AssemblyInfo.cs
+S:\Workspace\BE3A_test\Be3a\obj\Debug\net6.0\Be3a.csproj.CoreCompileInputs.cache
+S:\Workspace\BE3A_test\Be3a\obj\Debug\net6.0\Be3a.csproj.CopyComplete
+S:\Workspace\BE3A_test\Be3a\obj\Debug\net6.0\Be3a.dll
+S:\Workspace\BE3A_test\Be3a\obj\Debug\net6.0\refint\Be3a.dll
+S:\Workspace\BE3A_test\Be3a\obj\Debug\net6.0\Be3a.pdb
+S:\Workspace\BE3A_test\Be3a\obj\Debug\net6.0\Be3a.genruntimeconfig.cache
+S:\Workspace\BE3A_test\Be3a\obj\Debug\net6.0\ref\Be3a.dll

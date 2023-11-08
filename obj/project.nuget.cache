@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "40hafKjN1iltzi6Th9mcD6SUP/k3UEWW80f4+0poF7sT7PfABBVpzQTagPQ4Js1yccMlGL6OVs/eO90uVtw7Vw==",
+  "success": true,
+  "projectFilePath": "S:\\Workspace\\BE3A_test\\Be3a\\Be3a.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pasha\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
